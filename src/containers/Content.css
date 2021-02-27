@@ -1,0 +1,9 @@
+.Content {
+    height: 655px;
+    width: 100%;
+    position: relative;
+}
+
+.video {
+    position: absolute;
+}

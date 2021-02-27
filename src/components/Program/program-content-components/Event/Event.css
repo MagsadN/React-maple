@@ -1,0 +1,8 @@
+.Event {
+    text-align: center;
+    background-color: lightgreen;
+    min-width: 180px;
+    max-width: 80%;
+    height: 200px;
+    margin: auto;
+}

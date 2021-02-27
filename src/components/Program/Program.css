@@ -1,0 +1,21 @@
+.Program {
+    position: relative;
+    text-align: center;
+    color: rgb(218, 24, 24);
+    width: 80%;
+    height: 100%;
+    background-color: lightgray;
+    margin: auto;
+}
+
+.Program-sub {
+    position: relative;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin:auto;
+    width: 80%;
+    height: 150px;
+    text-decoration: none;
+}
